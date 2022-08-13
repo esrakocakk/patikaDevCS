@@ -8,7 +8,7 @@ namespace degisken
         {
             Console.WriteLine("");
 
-            string degisken=" "; 
+            string degisken=""; 
 
             byte b=5; // 1byte
             sbyte c=5; // 1byte
