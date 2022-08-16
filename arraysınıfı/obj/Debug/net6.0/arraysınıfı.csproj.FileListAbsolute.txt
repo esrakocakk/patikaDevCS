@@ -1,0 +1,15 @@
+C:\Users\Esra KOÇAK\Documents\PatikaDev\patikaDevCS\patikaDevCS\arraysınıfı\bin\Debug\net6.0\arraysınıfı.exe
+C:\Users\Esra KOÇAK\Documents\PatikaDev\patikaDevCS\patikaDevCS\arraysınıfı\bin\Debug\net6.0\arraysınıfı.deps.json
+C:\Users\Esra KOÇAK\Documents\PatikaDev\patikaDevCS\patikaDevCS\arraysınıfı\bin\Debug\net6.0\arraysınıfı.runtimeconfig.json
+C:\Users\Esra KOÇAK\Documents\PatikaDev\patikaDevCS\patikaDevCS\arraysınıfı\bin\Debug\net6.0\arraysınıfı.dll
+C:\Users\Esra KOÇAK\Documents\PatikaDev\patikaDevCS\patikaDevCS\arraysınıfı\bin\Debug\net6.0\arraysınıfı.pdb
+C:\Users\Esra KOÇAK\Documents\PatikaDev\patikaDevCS\patikaDevCS\arraysınıfı\obj\Debug\net6.0\arraysınıfı.csproj.AssemblyReference.cache
+C:\Users\Esra KOÇAK\Documents\PatikaDev\patikaDevCS\patikaDevCS\arraysınıfı\obj\Debug\net6.0\arraysınıfı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esra KOÇAK\Documents\PatikaDev\patikaDevCS\patikaDevCS\arraysınıfı\obj\Debug\net6.0\arraysınıfı.AssemblyInfoInputs.cache
+C:\Users\Esra KOÇAK\Documents\PatikaDev\patikaDevCS\patikaDevCS\arraysınıfı\obj\Debug\net6.0\arraysınıfı.AssemblyInfo.cs
+C:\Users\Esra KOÇAK\Documents\PatikaDev\patikaDevCS\patikaDevCS\arraysınıfı\obj\Debug\net6.0\arraysınıfı.csproj.CoreCompileInputs.cache
+C:\Users\Esra KOÇAK\Documents\PatikaDev\patikaDevCS\patikaDevCS\arraysınıfı\obj\Debug\net6.0\arraysınıfı.dll
+C:\Users\Esra KOÇAK\Documents\PatikaDev\patikaDevCS\patikaDevCS\arraysınıfı\obj\Debug\net6.0\refint\arraysınıfı.dll
+C:\Users\Esra KOÇAK\Documents\PatikaDev\patikaDevCS\patikaDevCS\arraysınıfı\obj\Debug\net6.0\arraysınıfı.pdb
+C:\Users\Esra KOÇAK\Documents\PatikaDev\patikaDevCS\patikaDevCS\arraysınıfı\obj\Debug\net6.0\arraysınıfı.genruntimeconfig.cache
+C:\Users\Esra KOÇAK\Documents\PatikaDev\patikaDevCS\patikaDevCS\arraysınıfı\obj\Debug\net6.0\ref\arraysınıfı.dll
